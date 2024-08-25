@@ -1,3 +1,3 @@
 ## Welcome to Eventum project! 👋
 
-Website: https://eventum-generatives.github.io/Website/
+Website: https://eventum-project.github.io/website/
