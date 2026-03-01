@@ -12,6 +12,7 @@ We aim to provide a logging solution that is:
 
 ### Core Projects
 - **[eventum](https://github.com/eventum-project/eventum)**: The core logger with Rust-powered engine and Node.js bindings.
+- **[website](https://github.com/eventum-project/website)**: Documentation (eventum.sh).
 
 ---
 "Infrastructure is the foundation, not just a tool."
