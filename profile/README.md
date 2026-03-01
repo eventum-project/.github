@@ -1,6 +1,7 @@
 # Eventum Project
 
 Eventum is an infrastructure-grade logging ecosystem designed to bridge the gap between high-performance Rust internals and Node.js business logic.
+
 [![Website](https://img.shields.io/badge/Website-eventum.sh-orange?style=for-the-badge&logo=rust)](https://eventum.sh)
 
 ### Mission
